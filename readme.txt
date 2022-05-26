@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Let's see the phenomenon.
 Git can add merge.
 Fix Bug.
+Fix unique Bugs.
