@@ -7,3 +7,4 @@ Let's see the phenomenon.
 Git can add merge.
 Temporary Work.
 Fix Bug.
+Fix unique Bugs.
